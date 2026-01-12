@@ -48,7 +48,7 @@ These visualizations help identify region-specific trends.
 
 ## Installation
 
-git clone https://github.com/your-repo/eda-final.git
+git clone https://github.com/Dhivyapriyaa6/EDA-FINAL.git
 
 cd flood-forecasting
 
